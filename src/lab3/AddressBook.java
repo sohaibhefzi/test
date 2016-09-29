@@ -41,6 +41,8 @@ public class AddressBook {
 		System.out.println("Hello " + temp.getB(1).getName() + "!");
 		
 		System.out.println("addressbook");
+		System.out.println("addressbook");
+		System.out.println("addressbook");
 		
 		
 		
