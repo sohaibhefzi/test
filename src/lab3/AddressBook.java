@@ -9,8 +9,7 @@ public class AddressBook {
 		list = new ArrayList<buddyinfo>();
 		
 	}
-	//dflgksruotig 
-	//lkjhfw o
+	
 	public void addBuddy(buddyinfo b){
 		list.add(b);
 	}
