@@ -10,6 +10,7 @@ public class AddressBook {
 		
 	}
 	//dflgksruotig 
+	//lkjhfw o
 	public void addBuddy(buddyinfo b){
 		list.add(b);
 	}
