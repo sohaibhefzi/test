@@ -45,6 +45,9 @@ public class AddressBook {
 		System.out.println("addressbook");
 		
 		
+		// fdilugyadsiu boiusaydfoa u
+		
+		
 		
 		temp.addBuddy(x1);
 		System.out.println("addressbook");
